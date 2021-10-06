@@ -7,6 +7,7 @@ import java.time.LocalDate;
 
 import org.junit.jupiter.api.Test;
 
+import br.com.alura.tdd.modelo.Desempenho;
 import br.com.alura.tdd.modelo.Funcionario;
 
 public class ReajusteServiceTest {
